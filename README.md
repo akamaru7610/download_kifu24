@@ -41,7 +41,7 @@ brew install chromedriver --cask
     LOGIN_PASSWORD=testpass
     ```
 
-- .env ファイルで設定
+- .env ファイルで設定<br>
   プロジェクトディレクトリに .env ファイルを作成します。<br>
   ファイルに記載してください。
     ```
